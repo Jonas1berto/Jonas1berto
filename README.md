@@ -1,7 +1,5 @@
 <h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Jonas Humberto</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jonas1berto&color=yellow" alt="Profile views" /> </p>
-
 - 🔥 Jonas Humberto dos Santos Melo
 
 - 🎉 21/08/2000
@@ -10,7 +8,6 @@
 
 - 👨‍💻 Estudante de HTML, CSS, JS
 
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -18,8 +15,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Jonas1berto&show_icons=true&theme=vision-friendly-dark" alt="Jonas1berto's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas1berto&layout=compact&theme=vision-friendly-dark" alt="Jonas1berto's most languages"/>
 </p>
-
-<br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
