@@ -30,7 +30,7 @@
 </a>
 </p>
                                                                                                                      
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jonas1berto/Jonas1berto/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Here are some ideas to get you started:
 
