@@ -29,6 +29,8 @@
  <img align="center" src="https://img.shields.io/badge/-Jonas1berto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+                                                                                                                     
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Here are some ideas to get you started:
 
