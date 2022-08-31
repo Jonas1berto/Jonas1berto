@@ -19,9 +19,6 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/jonas39"_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jonas1berto-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://www.linkedin.com/in/jonas-humberto-879a68233/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jonas1berto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
