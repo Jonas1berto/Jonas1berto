@@ -4,8 +4,6 @@
 
 - 🎉 21/08/2000
 
-- 🔭 Atualmente trabalhando como Armazenista no DelNorte
-
 - 👨‍💻 Estudante de HTML, CSS, JS
 
 
